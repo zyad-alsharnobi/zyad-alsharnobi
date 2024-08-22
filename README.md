@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zyad Alsharnobi</h1>
 <h3 align="center">A Junior Data Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://vsgif.com/gif/2765430)">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://vsgif.com/gif/2765430)](https://i.gifer.com/embedded/download/C9h.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyad-alsharnobi&label=Profile%20views&color=0e75b6&style=flat" alt="zyad-alsharnobi" /> </p>
 
