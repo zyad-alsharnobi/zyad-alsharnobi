@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zyad Alsharnobi</h1>
 <h3 align="center">A Junior Data Scientist</h3>
-<img align="right" alt="Coding" Width="400" src="https://imgs.search.brave.com/5Mj33Hh8eEQg4xptz-eDPZCFRAvsYJ2YQiriUZuh6dc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOM2hqTVRBeU4z/QnBiemhvTldVMmRY/WmpaR05tYkRsemRt/VnZOMmgwZFdGNU1Y/ZDBiMlExYnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMTNIZ3dHc1hG/MGFpR1kvMjAwLmdp/Zg.gif">
+<img align="right" alt="Coding" Width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding-dog&psig=AOvVaw0S99QQgyp7BxzbZmEOCVHP&ust=1724741845804000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjN1KCKkogDFQAAAAAdAAAAABAK">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyad-alsharnobi&label=Profile%20views&color=0e75b6&style=flat" alt="zyad-alsharnobi" /> </p>
 
 - 👯 I’m looking to collaborate on **Data Science projects**
