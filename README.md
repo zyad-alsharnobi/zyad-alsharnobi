@@ -41,7 +41,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### 🤖 Machine Learning & NLP
+### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -49,7 +49,6 @@
 ![seaborn](https://img.shields.io/badge/seaborn-315796?style=flat&logo=seaborn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
 <!--![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)-->
 
 
@@ -57,6 +56,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
 <!--
 ![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-00A3E0?style=flat&logo=cohere&logoColor=white)
@@ -79,11 +80,11 @@
 ![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
 <!--[Airflow](https://img.shields.io/badge/Airflow-0080FF?style=flat&logo=apache-airflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-00E7B7?style=flat&logo=snowflake&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=flat&logo=statistics&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time%20Series-FF4500?style=flat&logo=time-series&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-000000?style=flat&logo=dbt&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-5382A1?style=flat&logo=nosql&logoColor=white)
